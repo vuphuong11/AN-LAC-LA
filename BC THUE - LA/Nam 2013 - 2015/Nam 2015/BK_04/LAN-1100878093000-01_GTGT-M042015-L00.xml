@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HSoThueDTu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue">
+	<HSoKhaiThue id="ID_18">
+		<TTinChung>
+			<TTinDVu>
+				<maDVu>HTKK</maDVu>
+				<tenDVu>HTKK</tenDVu>
+				<pbanDVu>3.3.1</pbanDVu>
+				<ttinNhaCCapDVu></ttinNhaCCapDVu>
+			</TTinDVu>
+			<TTinTKhaiThue>
+				<TKhaiThue>
+					<maTKhai>01</maTKhai>
+					<tenTKhai>TỜ KHAI THUẾ GIÁ TRỊ GIA TĂNG (Mẫu số 01/GTGT)</tenTKhai>
+					<moTaBMau>(Ban hành kèm theo Thông tư số 119/2014/TT-BTC ngày 25/8/2014 của Bộ Tài chính)</moTaBMau>
+					<pbanTKhaiXML>2.0.7</pbanTKhaiXML>
+					<loaiTKhai>C</loaiTKhai>
+					<soLan>0</soLan>
+					<KyKKhaiThue>
+						<kieuKy>M</kieuKy>
+						<kyKKhai>04/2015</kyKKhai>
+						<kyKKhaiTuNgay>01/04/2015</kyKKhaiTuNgay>
+						<kyKKhaiDenNgay>30/04/2015</kyKKhaiDenNgay>
+						<kyKKhaiTuThang></kyKKhaiTuThang>
+						<kyKKhaiDenThang></kyKKhaiDenThang>
+					</KyKKhaiThue>
+					<maCQTNoiNop>80100</maCQTNoiNop>
+					<tenCQTNoiNop>Cục Thuế Tỉnh Long An</tenCQTNoiNop>
+					<ngayLapTKhai>2015-05-16</ngayLapTKhai>
+					<GiaHan>
+						<maLyDoGiaHan></maLyDoGiaHan>
+						<lyDoGiaHan></lyDoGiaHan>
+					</GiaHan>
+					<nguoiKy>Nguyễn Thiện Duy</nguoiKy>
+					<ngayKy>2015-05-11</ngayKy>
+					<nganhNgheKD>Mua bán, gia công, chế biến:hàng thuỷ hải sản, lương thực, thực phẩm ăn liến.Mua bán hoá chất......</nganhNgheKD>
+				</TKhaiThue>
+				<NNT>
+					<mst>1100878093</mst>
+					<tenNNT>Công Ty TNHH Hải Sản An Lạc</tenNNT>
+					<dchiNNT>Lô A14, Đường 4A, KCN Hải Sơn, Đức Hoà, Long An</dchiNNT>
+					<phuongXa></phuongXa>
+					<maHuyenNNT></maHuyenNNT>
+					<tenHuyenNNT>Đức Hoà</tenHuyenNNT>
+					<maTinhNNT></maTinhNNT>
+					<tenTinhNNT>Long An</tenTinhNNT>
+					<dthoaiNNT>0723850606</dthoaiNNT>
+					<faxNNT>0723850608</faxNNT>
+					<emailNNT>longan@anlacseafoods.com</emailNNT>
+				</NNT>
+			</TTinTKhaiThue>
+		</TTinChung>
+		<CTieuTKhaiChinh>
+			<tieuMucHachToan>1701</tieuMucHachToan>
+			<ct21>0</ct21>
+			<ct22>232695698</ct22>
+			<GiaTriVaThueGTGTHHDVMuaVao>
+				<ct23>312832292</ct23>
+				<ct24>30233657</ct24>
+			</GiaTriVaThueGTGTHHDVMuaVao>
+			<ct25>30233657</ct25>
+			<ct26>0</ct26>
+			<HHDVBRaChiuThueGTGT>
+				<ct27>2233983375</ct27>
+				<ct28>0</ct28>
+			</HHDVBRaChiuThueGTGT>
+			<ct29>2233983375</ct29>
+			<HHDVBRaChiuTSuat5>
+				<ct30>0</ct30>
+				<ct31>0</ct31>
+			</HHDVBRaChiuTSuat5>
+			<HHDVBRaChiuTSuat10>
+				<ct32>0</ct32>
+				<ct33>0</ct33>
+			</HHDVBRaChiuTSuat10>
+			<TongDThuVaThueGTGTHHDVBRa>
+				<ct34>2233983375</ct34>
+				<ct35>0</ct35>
+			</TongDThuVaThueGTGTHHDVBRa>
+			<ct36>-30233657</ct36>
+			<ct37>0</ct37>
+			<ct38>0</ct38>
+			<ct39>0</ct39>
+			<ct40a>0</ct40a>
+			<ct40b>0</ct40b>
+			<ct40>0</ct40>
+			<ct41>262929355</ct41>
+			<ct42>0</ct42>
+			<ct43>262929355</ct43>
+		</CTieuTKhaiChinh>
+		<PLuc>
+			<PL01_1_GTGT>
+				<HHDVKChiuThue>
+					<ChiTietHHDVKChiuThue>
+					</ChiTietHHDVKChiuThue>
+					<tongDThuBRaKChiuThue>0</tongDThuBRaKChiuThue>
+				</HHDVKChiuThue>
+				<HHDVThue0>
+					<ChiTietHHDVThue0>
+						<HDonBRa id="ID_1">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000075</soHDon>
+							<ngayPHanh>2015-04-24</ngayPHanh>
+							<tenNMUA>BIOVITAL COMPANY</tenNMUA>
+							<mstNMUA xsi:nil="true"/>
+							<matHang></matHang>
+							<dsoBanChuaThue>2233983375</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonBRa></ChiTietHHDVThue0>
+					<tongDThuBRaThue0>2233983375</tongDThuBRaThue0>
+					<tongThueBRaThue0>0</tongThueBRaThue0>
+				</HHDVThue0>
+				<HHDVThue5>
+					<ChiTietHHDVThue5>
+					</ChiTietHHDVThue5>
+					<tongDThuBRaThue5>0</tongDThuBRaThue5>
+					<tongThueBRaThue5>0</tongThueBRaThue5>
+				</HHDVThue5>
+				<HHDVThue10>
+					<ChiTietHHDVThue10>
+					</ChiTietHHDVThue10>
+					<tongDThuBRaThue10>0</tongDThuBRaThue10>
+					<tongThueBRaThue10>0</tongThueBRaThue10>
+				</HHDVThue10>
+				<HHDVBRaKhongTHop>
+					<ChiTietHHDVBRaKhongTHop>
+					</ChiTietHHDVBRaKhongTHop>
+					<tongDThuBRaKoKKhai>0</tongDThuBRaKoKKhai>
+					<tongThueBRaKoKKhai>0</tongThueBRaKoKKhai>
+				</HHDVBRaKhongTHop>
+				<tongDThuBRa>0</tongDThuBRa>
+				<tongDThuBRaChiuThue>2233983375</tongDThuBRaChiuThue>
+				<tongThueBRa>0</tongThueBRa>
+			</PL01_1_GTGT>
+			<PL01_2_GTGT>
+				<HHDVDRieng>
+					<ChiTietHHDVDRieng>
+						<HDonMVao id="ID_1">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000528</soHDon>
+							<ngayPHanh>2015-03-31</ngayPHanh>
+							<tenNBAN>DNTN Nguyễn Văn Sáu</tenNBAN>
+							<mstNBAN>0301410810</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>2235972</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>223598</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_2">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0472494</soHDon>
+							<ngayPHanh>2015-04-01</ngayPHanh>
+							<tenNBAN>Công Ty CP Vật Tư - Xăng Dầu Comeco</tenNBAN>
+							<mstNBAN>0300450673</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>828982</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>82898</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_3">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000009</soHDon>
+							<ngayPHanh>2015-04-06</ngayPHanh>
+							<tenNBAN>Công Ty TNHH Hải Sơn</tenNBAN>
+							<mstNBAN>1100601422</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>11616000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>580800</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_4">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000009</soHDon>
+							<ngayPHanh>2015-04-06</ngayPHanh>
+							<tenNBAN>Công Ty TNHH Hải Sơn</tenNBAN>
+							<mstNBAN>1100601422</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>3504000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>350400</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_5">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000712</soHDon>
+							<ngayPHanh>2015-04-06</ngayPHanh>
+							<tenNBAN>Công Ty TNHH MTV Hà Anh Dương</tenNBAN>
+							<mstNBAN>0310076626</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>15520000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>1552000</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_6">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000010</soHDon>
+							<ngayPHanh>2015-04-07</ngayPHanh>
+							<tenNBAN>Công Ty TNHH Hải Sơn</tenNBAN>
+							<mstNBAN>1100601422</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>2478250</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>247825</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_7">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0472804</soHDon>
+							<ngayPHanh>2015-04-09</ngayPHanh>
+							<tenNBAN>Công Ty CP Vật Tư - Xăng Dầu Comeco</tenNBAN>
+							<mstNBAN>0300450673</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>1349127</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>134913</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_8">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000016</soHDon>
+							<ngayPHanh>2015-04-10</ngayPHanh>
+							<tenNBAN>Công Ty TNHH Tư Vấn Đầu Tư &amp; Sở Hữu trí Tuệ Hoàng Phi</tenNBAN>
+							<mstNBAN>0106770954</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>4647619</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>232381</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_9">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0472846</soHDon>
+							<ngayPHanh>2015-04-10</ngayPHanh>
+							<tenNBAN>Công Ty CP Vật Tư - Xăng Dầu Comeco</tenNBAN>
+							<mstNBAN>0300450673</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>520145</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>52015</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_10">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0472903</soHDon>
+							<ngayPHanh>2015-04-11</ngayPHanh>
+							<tenNBAN>Công Ty CP Vật Tư - Xăng Dầu Comeco</tenNBAN>
+							<mstNBAN>0300450673</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>849000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>89400</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_11">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0023207</soHDon>
+							<ngayPHanh>2015-04-15</ngayPHanh>
+							<tenNBAN>Công Ty TNHH DV Ôtô Sài Gòn Toyota Tsusho</tenNBAN>
+							<mstNBAN>0300710843</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>2906180</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>290618</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_12">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000571</soHDon>
+							<ngayPHanh>2015-04-15</ngayPHanh>
+							<tenNBAN>DNTN Nguyễn Văn Sáu</tenNBAN>
+							<mstNBAN>0301410810</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>848291</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>84829</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_13">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000571</soHDon>
+							<ngayPHanh>2015-04-15</ngayPHanh>
+							<tenNBAN>DNTN Nguyễn Văn Sáu</tenNBAN>
+							<mstNBAN>0301410810</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>7454491</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>745449</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_14">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0009199</soHDon>
+							<ngayPHanh>2015-04-15</ngayPHanh>
+							<tenNBAN>Viện Pasteur TP.HCM</tenNBAN>
+							<mstNBAN>0301225896</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>245455</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>24545</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_15">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0071473</soHDon>
+							<ngayPHanh>2015-04-15</ngayPHanh>
+							<tenNBAN>Công Ty CP CMA - CGM Việt Nam</tenNBAN>
+							<mstNBAN>0304207743</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>4077000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>214450</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_16">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0473052</soHDon>
+							<ngayPHanh>2015-04-15</ngayPHanh>
+							<tenNBAN>Công Ty CP Vật Tư - Xăng Dầu Comeco</tenNBAN>
+							<mstNBAN>0300450673</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>1137818</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>113782</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_17">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000717</soHDon>
+							<ngayPHanh>2015-04-16</ngayPHanh>
+							<tenNBAN>Công Ty TNHH MTV Hà Anh Dương</tenNBAN>
+							<mstNBAN>0310076626</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>18000000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>1800000</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_18">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0473134</soHDon>
+							<ngayPHanh>2015-04-17</ngayPHanh>
+							<tenNBAN>Công Ty CP Vật Tư - Xăng Dầu Comeco</tenNBAN>
+							<mstNBAN>0300450673</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>682691</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>68269</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_19">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000019</soHDon>
+							<ngayPHanh>2015-04-18</ngayPHanh>
+							<tenNBAN>Công Ty TNHH Tư Vấn Đầu Tư &amp; Sở Hữu trí Tuệ Hoàng Phi</tenNBAN>
+							<mstNBAN>0106770954</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>952381</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>47619</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_20">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0473266</soHDon>
+							<ngayPHanh>2015-04-20</ngayPHanh>
+							<tenNBAN>Công Ty CP Vật Tư - Xăng Dầu Comeco</tenNBAN>
+							<mstNBAN>0300450673</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>845236</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>84524</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_21">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0473352</soHDon>
+							<ngayPHanh>2015-04-22</ngayPHanh>
+							<tenNBAN>Công Ty CP Vật Tư - Xăng Dầu Comeco</tenNBAN>
+							<mstNBAN>0300450673</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>910255</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>91025</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_22">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000365</soHDon>
+							<ngayPHanh>2015-04-24</ngayPHanh>
+							<tenNBAN>Công Ty TNHH Vận Tải Trần Quốc</tenNBAN>
+							<mstNBAN>0310438386</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>7000000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>700000</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_23">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0473489</soHDon>
+							<ngayPHanh>2015-04-25</ngayPHanh>
+							<tenNBAN>Công Ty CP Vật Tư - Xăng Dầu Comeco</tenNBAN>
+							<mstNBAN>0300450673</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>633927</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>63393</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_24">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0002381</soHDon>
+							<ngayPHanh>2015-04-27</ngayPHanh>
+							<tenNBAN>Công Ty TNHH DV Bảo Vệ Huỳnh Long</tenNBAN>
+							<mstNBAN>1100678866</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>14400000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>1440000</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_25">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0473607</soHDon>
+							<ngayPHanh>2015-04-28</ngayPHanh>
+							<tenNBAN>Công Ty CP Vật Tư - Xăng Dầu Comeco</tenNBAN>
+							<mstNBAN>0300450673</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>666436</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>66644</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_26">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000001</soHDon>
+							<ngayPHanh>2015-04-28</ngayPHanh>
+							<tenNBAN>Phí giao thông </tenNBAN>
+							<mstNBAN>0300450673</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>1810000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>181000</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_27">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000001</soHDon>
+							<ngayPHanh>2015-04-28</ngayPHanh>
+							<tenNBAN>Phí giao thông </tenNBAN>
+							<mstNBAN>0300450673</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>1950000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>195000</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_28">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0182756</soHDon>
+							<ngayPHanh>2015-04-06</ngayPHanh>
+							<tenNBAN>Công Ty Điện Lực Long An</tenNBAN>
+							<mstNBAN>0300942001-017</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>20264900</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>2026490</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_29">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0138076</soHDon>
+							<ngayPHanh>2015-04-16</ngayPHanh>
+							<tenNBAN>Công Ty Điện Lực Long An</tenNBAN>
+							<mstNBAN>0300942001-017</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>17145400</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>1714540</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_30">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0139000</soHDon>
+							<ngayPHanh>2015-04-26</ngayPHanh>
+							<tenNBAN>Công Ty Điện Lực Long An</tenNBAN>
+							<mstNBAN>0300942001-017</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>20434400</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>2043440</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_31">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000561</soHDon>
+							<ngayPHanh>2015-04-09</ngayPHanh>
+							<tenNBAN>Công Ty CP Chiếu Xạ An Phú</tenNBAN>
+							<mstNBAN>3700480244</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>61320000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>6132000</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_32">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000646</soHDon>
+							<ngayPHanh>2015-04-23</ngayPHanh>
+							<tenNBAN>Công Ty CP Chiếu Xạ An Phú</tenNBAN>
+							<mstNBAN>3700480244</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>13311132</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>1331114</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_33">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0006974</soHDon>
+							<ngayPHanh>2015-04-01</ngayPHanh>
+							<tenNBAN>Công Ty TNHH Nhựa Duy Tân</tenNBAN>
+							<mstNBAN>0301417196</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>1750000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>175000</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_34">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0004078</soHDon>
+							<ngayPHanh>2015-04-18</ngayPHanh>
+							<tenNBAN>Công Ty TNHH Tấn Dũng</tenNBAN>
+							<mstNBAN>1200469792</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>22320000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>2232000</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_35">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0014349</soHDon>
+							<ngayPHanh>2015-04-26</ngayPHanh>
+							<tenNBAN>Công Ty TNHH Tốc Độ</tenNBAN>
+							<mstNBAN>0303108080</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>5902260</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>590226</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_36">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0451214</soHDon>
+							<ngayPHanh>2015-04-30</ngayPHanh>
+							<tenNBAN>Trung Tâm Kinh Doanh VNPT Long An</tenNBAN>
+							<mstNBAN>1100109154-153</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>1988220</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>198822</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_37">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000606</soHDon>
+							<ngayPHanh>2015-04-30</ngayPHanh>
+							<tenNBAN>DNTN Nguyễn Văn Sáu</tenNBAN>
+							<mstNBAN>0301410810</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>892345</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>89235</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_38">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>GBN</soHDon>
+							<ngayPHanh>2015-04-04</ngayPHanh>
+							<tenNBAN>NH Eximbank Quận 11</tenNBAN>
+							<mstNBAN>0301179079-039</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>25000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>2500</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_39">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>GBN</soHDon>
+							<ngayPHanh>2015-04-04</ngayPHanh>
+							<tenNBAN>NH Eximbank Quận 11</tenNBAN>
+							<mstNBAN>0301179079-039</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>20000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>2000</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_40">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>GBN</soHDon>
+							<ngayPHanh>2015-04-04</ngayPHanh>
+							<tenNBAN>NH Eximbank Quận 11</tenNBAN>
+							<mstNBAN>0301179079-039</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>25000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>2500</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_41">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>GBN</soHDon>
+							<ngayPHanh>2015-04-04</ngayPHanh>
+							<tenNBAN>NH Eximbank Quận 11</tenNBAN>
+							<mstNBAN>0301179079-039</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>35000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>3500</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_42">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>GBN</soHDon>
+							<ngayPHanh>2015-04-04</ngayPHanh>
+							<tenNBAN>NH Eximbank Quận 11</tenNBAN>
+							<mstNBAN>0301179079-039</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>21000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>2100</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_43">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>GBN</soHDon>
+							<ngayPHanh>2015-04-04</ngayPHanh>
+							<tenNBAN>NH Eximbank Quận 11</tenNBAN>
+							<mstNBAN>0301179079-039</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>20000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>2000</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_44">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>GBN</soHDon>
+							<ngayPHanh>2015-04-04</ngayPHanh>
+							<tenNBAN>NH Eximbank Quận 11</tenNBAN>
+							<mstNBAN>0301179079-039</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>20000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>2000</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_45">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>GBN</soHDon>
+							<ngayPHanh>2015-04-04</ngayPHanh>
+							<tenNBAN>NH Eximbank Quận 11</tenNBAN>
+							<mstNBAN>0301179079-039</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>20000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>2000</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_46">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>GBN</soHDon>
+							<ngayPHanh>2015-04-04</ngayPHanh>
+							<tenNBAN>NH Eximbank Quận 11</tenNBAN>
+							<mstNBAN>0301179079-039</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>25000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>2500</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_47">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>GBN</soHDon>
+							<ngayPHanh>2015-04-21</ngayPHanh>
+							<tenNBAN>NH Eximbank Quận 11</tenNBAN>
+							<mstNBAN>0301179079-039</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>25000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>2500</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_48">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>GBN</soHDon>
+							<ngayPHanh>2015-04-03</ngayPHanh>
+							<tenNBAN>NH Eximbank Quận 11</tenNBAN>
+							<mstNBAN>0301179079-039</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>412012</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>41180</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_49">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>C34</soHDon>
+							<ngayPHanh>2015-04-28</ngayPHanh>
+							<tenNBAN>Công Ty TNHH TM XNK Vận Tải Vĩnh Phát</tenNBAN>
+							<mstNBAN>0312991194</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>9081820</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>908180</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_50">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>C35</soHDon>
+							<ngayPHanh>2015-04-28</ngayPHanh>
+							<tenNBAN>Công Ty TNHH TM XNK Vận Tải Vĩnh Phát</tenNBAN>
+							<mstNBAN>0312991194</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>8736364</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>873636</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_51">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>C36</soHDon>
+							<ngayPHanh>2015-04-28</ngayPHanh>
+							<tenNBAN>Công Ty TNHH TM XNK Vận Tải Vĩnh Phát</tenNBAN>
+							<mstNBAN>0312991194</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>8468182</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>846818</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_52">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>C37</soHDon>
+							<ngayPHanh>2015-04-28</ngayPHanh>
+							<tenNBAN>Công Ty TNHH TM XNK Vận Tải Vĩnh Phát</tenNBAN>
+							<mstNBAN>0312991194</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>12500001</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>1249999</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao></ChiTietHHDVDRieng>
+					<tongGTriMVao>312832292</tongGTriMVao>
+					<tongThueMVao>30233657</tongThueMVao>
+				</HHDVDRieng>
+				<HHDVKhongKTru>
+					<ChiTietHHDVKhongKTru>
+					</ChiTietHHDVKhongKTru>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVKhongKTru>
+				<HHDVDChung>
+					<ChiTietHHDVDChung>
+					</ChiTietHHDVDChung>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVDChung>
+				<HHDVKTru>
+					<ChiTietHHDVKTru>
+					</ChiTietHHDVKTru>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVKTru>
+				<HHDVMVaoKhongTHop>
+					<ChiTietHHDVMVaoKhongTHop>
+					</ChiTietHHDVMVaoKhongTHop>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVMVaoKhongTHop>
+				<tongGTriMVao>312832292</tongGTriMVao>
+				<tongThueMVao>30233657</tongThueMVao>
+			</PL01_2_GTGT>
+		</PLuc>
+	</HSoKhaiThue>
+</HSoThueDTu>
