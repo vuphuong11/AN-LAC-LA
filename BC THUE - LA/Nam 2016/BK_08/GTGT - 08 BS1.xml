@@ -1,19 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<HSoThueDTu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><HSoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<HSoKhaiThue id="ID_18">
 		<TTinChung>
 			<TTinDVu>
 				<maDVu>HTKK</maDVu>
 				<tenDVu>HTKK</tenDVu>
-				<pbanDVu>3.3.8</pbanDVu>
-				<ttinNhaCCapDVu></ttinNhaCCapDVu>
+				<pbanDVu>3.4.0</pbanDVu>
+				<ttinNhaCCapDVu/>
 			</TTinDVu>
 			<TTinTKhaiThue>
 				<TKhaiThue>
 					<maTKhai>01</maTKhai>
 					<tenTKhai>TỜ KHAI THUẾ GIÁ TRỊ GIA TĂNG (Mẫu số 01/GTGT)</tenTKhai>
-					<moTaBMau>(Ban hành kèm theo Thông tư số 119/2014/TT-BTC ngày 25/8/2014 của Bộ Tài chính)</moTaBMau>
-					<pbanTKhaiXML>2.0.7</pbanTKhaiXML>
+					<moTaBMau>(Ban hành kèm theo Thông tư số 26/2015/TT-BTC ngày 27/02/2015 của Bộ Tài chính)</moTaBMau>
+					<pbanTKhaiXML>2.1.2</pbanTKhaiXML>
 					<loaiTKhai>B</loaiTKhai>
 					<soLan>1</soLan>
 					<KyKKhaiThue>
@@ -21,28 +20,28 @@
 						<kyKKhai>08/2016</kyKKhai>
 						<kyKKhaiTuNgay>01/08/2016</kyKKhaiTuNgay>
 						<kyKKhaiDenNgay>31/08/2016</kyKKhaiDenNgay>
-						<kyKKhaiTuThang></kyKKhaiTuThang>
-						<kyKKhaiDenThang></kyKKhaiDenThang>
+						<kyKKhaiTuThang/>
+						<kyKKhaiDenThang/>
 					</KyKKhaiThue>
 					<maCQTNoiNop>80100</maCQTNoiNop>
 					<tenCQTNoiNop>Cục Thuế Tỉnh Long An</tenCQTNoiNop>
-					<ngayLapTKhai>2016-09-26</ngayLapTKhai>
+					<ngayLapTKhai>2016-10-11</ngayLapTKhai>
 					<GiaHan>
-						<maLyDoGiaHan></maLyDoGiaHan>
-						<lyDoGiaHan></lyDoGiaHan>
+						<maLyDoGiaHan/>
+						<lyDoGiaHan/>
 					</GiaHan>
 					<nguoiKy>Nguyễn Thiện Duy</nguoiKy>
-					<ngayKy>2016-09-19</ngayKy>
+					<ngayKy>2016-10-11</ngayKy>
 					<nganhNgheKD>Mua bán, gia công, chế biến:hàng thuỷ hải sản, lương thực, thực phẩm ăn liến.Mua bán hoá chất......</nganhNgheKD>
 				</TKhaiThue>
 				<NNT>
 					<mst>1100878093</mst>
 					<tenNNT>Công Ty TNHH Hải Sản An Lạc</tenNNT>
 					<dchiNNT>Lô A14, Đường 4A, KCN Hải Sơn, Đức Hoà, Long An</dchiNNT>
-					<phuongXa></phuongXa>
-					<maHuyenNNT></maHuyenNNT>
+					<phuongXa/>
+					<maHuyenNNT/>
 					<tenHuyenNNT>Đức Hoà</tenHuyenNNT>
-					<maTinhNNT></maTinhNNT>
+					<maTinhNNT/>
 					<tenTinhNNT>Long An</tenTinhNNT>
 					<dthoaiNNT>0723850606</dthoaiNNT>
 					<faxNNT>0723850608</faxNNT>
@@ -55,10 +54,10 @@
 			<ct21>0</ct21>
 			<ct22>38261508</ct22>
 			<GiaTriVaThueGTGTHHDVMuaVao>
-				<ct23>352657192</ct23>
-				<ct24>34910200</ct24>
+				<ct23>338888588</ct23>
+				<ct24>33852857</ct24>
 			</GiaTriVaThueGTGTHHDVMuaVao>
-			<ct25>34910200</ct25>
+			<ct25>33852857</ct25>
 			<ct26>0</ct26>
 			<HHDVBRaChiuThueGTGT>
 				<ct27>9598445220</ct27>
@@ -73,37 +72,39 @@
 				<ct32>0</ct32>
 				<ct33>0</ct33>
 			</HHDVBRaChiuTSuat10>
+			<HHDVBRaKhongTinhThue>
+				<ct32a>0</ct32a>
+			</HHDVBRaKhongTinhThue>
 			<TongDThuVaThueGTGTHHDVBRa>
 				<ct34>9598445220</ct34>
 				<ct35>0</ct35>
 			</TongDThuVaThueGTGTHHDVBRa>
-			<ct36>-34910200</ct36>
+			<ct36>-33852857</ct36>
 			<ct37>38261508</ct37>
 			<ct38>0</ct38>
 			<ct39>0</ct39>
 			<ct40a>0</ct40a>
 			<ct40b>0</ct40b>
 			<ct40>0</ct40>
-			<ct41>34910200</ct41>
+			<ct41>33852857</ct41>
 			<ct42>0</ct42>
-			<ct43>34910200</ct43>
+			<ct43>33852857</ct43>
 		</CTieuTKhaiChinh>
 		<PLuc>
 			<PL01_KHBS>
 				<NDUNGKHAIBOSUNGDIEUCHINH>
 					<DieuChinhTang>
 						<KHBSDieuChinhTang id="ID_1">
-							<ct2></ct2>
-							<ct3></ct3>
-							<ct4>0</ct4>
-							<ct5>0</ct5>
-							<ct6>0</ct6>
-						</KHBSDieuChinhTang>
-					</DieuChinhTang>
+							<ct2>Tổng số thuế GTGT  được khấu trừ kỳ này</ct2>
+							<ct3>25</ct3>
+							<ct4>34910200</ct4>
+							<ct5>33852857</ct5>
+							<ct6>-1057343</ct6>
+						</KHBSDieuChinhTang></DieuChinhTang>
 					<DieuChinhGiam>
 						<KHBSDieuChinhGiam id="ID_1">
-							<ct2></ct2>
-							<ct3></ct3>
+							<ct2/>
+							<ct3/>
 							<ct4>0</ct4>
 							<ct5>0</ct5>
 							<ct6>0</ct6>
@@ -121,26 +122,53 @@
 							<ct2>Thuế GTGT còn được khấu trừ chuyển kỳ sau</ct2>
 							<ct3>43</ct3>
 							<ct4>73171708</ct4>
-							<ct5>34910200</ct5>
-							<ct6>-38261508</ct6>
+							<ct5>33852857</ct5>
+							<ct6>-39318851</ct6>
 						</ct43>
 					</TongHopDCTangGiamPNop>
 				</NDUNGKHAIBOSUNGDIEUCHINH>
 				<PhatChamNop>
-					<soNgayNopCham>6</soNgayNopCham>
+					<soNgayNopCham>21</soNgayNopCham>
 					<soTienPhatNopCham>0</soTienPhatNopCham>
 				</PhatChamNop>
 				<NOIDUNGGIAITHICH>
 					<soTienTraNSNN>0</soTienTraNSNN>
-					<quyetDinhHoanThueSo></quyetDinhHoanThueSo>
+					<quyetDinhHoanThueSo/>
 					<ngay xsi:nil="true"/>
-					<coQuanThue></coQuanThue>
+					<coQuanThue/>
 					<soNgayNhanDuocTienHoan>0</soNgayNhanDuocTienHoan>
 					<soTienChamNop>0</soTienChamNop>
-					<lyDoKhac>Do kế toán nhầm lẫn trong quá trình kê khai thuế GTGT đầu vào nên dẫn đến sai sót thuế GTGT còn phải nộp của Tháng 8 Năm 2016.
-</lyDoKhac>
+					<lyDoKhac/>
 				</NOIDUNGGIAITHICH>
 			</PL01_KHBS>
 		</PLuc>
 	</HSoKhaiThue>
-</HSoThueDTu>
+<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#ID_18"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Mi0XtpgtDa1Xpuu/RT4U8o5vOT0=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>uxWRlm22CN4MPCU7q6pm6cfsmaId1+XgkxcQHQi4sU6LTLSlB20fBEd1o2eghGn6mf4NfyVxSQ83
+doLsbmkwm/lbY+yYHy4y+RviYd0Wh+iKbmskSD29lL9Yjy9EHo7qTSpzKG7ZOc18HZ52HspmnCrT
+We7lWsmGs42jDIW4TDA=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>1yjbpdYx1FYq5kR0BIm1+ysxmSESxW7SQirkWkKKvzJGUs3nKuOoq/9/om5PBfSZ6aG7jp9ghbgh
+5RGJpss5MqfrKi3piY+GirXctH1DuV3Um0Iq30yA04aNrmklx374uF3KJDCxRU/p/8ydMJWwvupf
+Lz7D7docFKKPI52cDD8=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>CN=CÔNG TY TNHH HẢI SẢN AN LẠC - MST:1100878093,O=CÔNG TY TNHH HẢI SẢN AN LẠC,L=Đức Hòa,ST=Long An,C=VN</ds:X509SubjectName><ds:X509Certificate>MIIFXzCCA0egAwIBAgIQVAYY3ycMvvtL3SQAUZReXzANBgkqhkiG9w0BAQUFADBaMQswCQYDVQQG
+EwJWTjEkMCIGA1UEChMbQ0sgTWVkaWEgYW5kIFRlY2hub2xvZ3kgSlNDMRYwFAYDVQQLEw1DS0NB
+IE9yaWdTaWduMQ0wCwYDVQQDEwRDS0NBMB4XDTE0MTEwNzAyMDQwMFoXDTE2MTExMTAwNTYzOFow
+gaAxCzAJBgNVBAYTAlZOMRAwDgYDVQQIDAdMb25nIEFuMRQwEgYDVQQHDAvEkOG7qWMgSMOyYTEr
+MCkGA1UECgwiQ8OUTkcgVFkgVE5ISCBI4bqiSSBT4bqiTiBBTiBM4bqgQzE8MDoGA1UEAwwzQ8OU
+TkcgVFkgVE5ISCBI4bqiSSBT4bqiTiBBTiBM4bqgQyAtIE1TVDoxMTAwODc4MDkzMIGfMA0GCSqG
+SIb3DQEBAQUAA4GNADCBiQKBgQDXKNul1jHUVirmRHQEibX7KzGZIRLFbtJCKuRaQoq/MkZSzecq
+46ir/3+ibk8F9JnpobuOn2CFuCHlEYmmyzkyp+sqLemJj4aKtdy0fUO5XdSbQirfTIDTho2uaSXH
+fvi4XcokMLFFT+n/zJ0wlbC+6l8vPsPt2hwUoo8jnZwMPwIDAQABo4IBXDCCAVgwZgYIKwYBBQUH
+AQEEWjBYMC4GCCsGAQUFBzAChiJodHRwOi8vY2VydC5ja2NhLnZuL2NlcnRzL2NrY2EuY2VyMCYG
+CCsGAQUFBzABhhpodHRwOi8vb2NzcC5ja2NhLnZuL3N0YXR1czAdBgNVHQ4EFgQUx4IYJlxIa2FW
+H5tCpy1enQt3JYowDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBQPCvdgltmkVRTW2vwmgJIDU7bo
+FDA8BgNVHSAENTAzMDEGDSsGAQQBge0DAQYBAQIwIDAeBggrBgEFBQcCARYSaHR0cDovL2NrY2Eu
+dm4vcnBhMDEGA1UdHwQqMCgwJqAkoCKGIGh0dHA6Ly9jcmwuY2tjYS52bi9jcmxzL2NrY2EuY3Js
+MA4GA1UdDwEB/wQEAwIE8DAfBgNVHSUEGDAWBggrBgEFBQcDBAYKKwYBBAGCNwoDDDANBgkqhkiG
+9w0BAQUFAAOCAgEANegHThe0DX/I9MUWzstOqxVQ/wtpH8di+zFRN12zNM3mShCJAKdL6dJNdKPW
+uo80rFZvhPQ0sAhyZxBZ+V8Bi//X2IOPSyIqrC37K8k/fZNycNlDKSHbUErnK1yLBJ5MwP1TrBdq
+K/tfcX1c2B+wTjSEL7AbqdGy4Zyy5liBJg7hpCzbU15hhRBTjE/xH0Y+QWz6l6gfQ0ARq2WlvNEo
+mm0xiofHT4vZvucyncMK035ZSmPWIvDJ5ab5wjGrh/1spMvnaBBDO7zNgrQ5/H+7Stta2MxwHz4P
+wMxhVXNQMDvkWBgRJQS1us8ZnjQZPDSy/Y9SjYaxFV6Dkg5c3WlBa05AVnwVeuikXgjW2Vvtq4pu
+2TMzmldIlijA56yrZ6BZ4RvPtSsb6PoD7QXPI6rHOi6mG8/LDcR92aDWxZrKpWFZPWzevfeudguq
+y8gmNY/kdXrUak/bylj9svg186qYit6sP9zZJgIDyywhiKEdbEeUWBWOdznm0Rz9z6joDzXk89i3
+shQCQEyMJsXW9QnZPnYlUc7/Wr1H6NcvpLjfYOYayKYviiYXczpRiZesiLxDhmQpflH+YH5DPvwV
+XuVqEwbnR3FjV89Q8qRSB8O1MNUH/WBwhbPf3NbD4Au6OE1FhDggN8xo6U48UXeHiqH1URLlx4wn
+VMwoM5jDW6Nm/PI=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature></CKyDTu></HSoThueDTu>
