@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<HSoThueDTu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><HSoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<HSoKhaiThue id="ID_18">
 		<TTinChung>
 			<TTinDVu>
 				<maDVu>HTKK</maDVu>
 				<tenDVu>HTKK</tenDVu>
-				<pbanDVu>3.4.0</pbanDVu>
-				<ttinNhaCCapDVu></ttinNhaCCapDVu>
+				<pbanDVu>3.4.1</pbanDVu>
+				<ttinNhaCCapDVu/>
 			</TTinDVu>
 			<TTinTKhaiThue>
 				<TKhaiThue>
@@ -21,15 +20,15 @@
 						<kyKKhai>09/2016</kyKKhai>
 						<kyKKhaiTuNgay>01/09/2016</kyKKhaiTuNgay>
 						<kyKKhaiDenNgay>30/09/2016</kyKKhaiDenNgay>
-						<kyKKhaiTuThang></kyKKhaiTuThang>
-						<kyKKhaiDenThang></kyKKhaiDenThang>
+						<kyKKhaiTuThang/>
+						<kyKKhaiDenThang/>
 					</KyKKhaiThue>
 					<maCQTNoiNop>80100</maCQTNoiNop>
 					<tenCQTNoiNop>Cục Thuế Tỉnh Long An</tenCQTNoiNop>
-					<ngayLapTKhai>2016-11-24</ngayLapTKhai>
+					<ngayLapTKhai>2016-12-16</ngayLapTKhai>
 					<GiaHan>
-						<maLyDoGiaHan></maLyDoGiaHan>
-						<lyDoGiaHan></lyDoGiaHan>
+						<maLyDoGiaHan/>
+						<lyDoGiaHan/>
 					</GiaHan>
 					<nguoiKy>Nguyễn Thiện Duy</nguoiKy>
 					<ngayKy>2016-10-17</ngayKy>
@@ -39,10 +38,10 @@
 					<mst>1100878093</mst>
 					<tenNNT>Công Ty TNHH Hải Sản An Lạc</tenNNT>
 					<dchiNNT>Lô A14, Đường 4A, KCN Hải Sơn, Đức Hoà, Long An</dchiNNT>
-					<phuongXa></phuongXa>
-					<maHuyenNNT></maHuyenNNT>
+					<phuongXa/>
+					<maHuyenNNT/>
 					<tenHuyenNNT>Đức Hoà</tenHuyenNNT>
-					<maTinhNNT></maTinhNNT>
+					<maTinhNNT/>
 					<tenTinhNNT>Long An</tenTinhNNT>
 					<dthoaiNNT>0723850606</dthoaiNNT>
 					<faxNNT>0723850608</faxNNT>
@@ -55,16 +54,16 @@
 			<ct21>0</ct21>
 			<ct22>73171708</ct22>
 			<GiaTriVaThueGTGTHHDVMuaVao>
-				<ct23>569281250</ct23>
-				<ct24>55902124</ct24>
+				<ct23>569271250</ct23>
+				<ct24>55801124</ct24>
 			</GiaTriVaThueGTGTHHDVMuaVao>
-			<ct25>55902124</ct25>
+			<ct25>56801124</ct25>
 			<ct26>0</ct26>
 			<HHDVBRaChiuThueGTGT>
-				<ct27>7289483210</ct27>
+				<ct27>7286703060</ct27>
 				<ct28>0</ct28>
 			</HHDVBRaChiuThueGTGT>
-			<ct29>7289483210</ct29>
+			<ct29>7286703060</ct29>
 			<HHDVBRaChiuTSuat5>
 				<ct30>0</ct30>
 				<ct31>0</ct31>
@@ -77,27 +76,27 @@
 				<ct32a>0</ct32a>
 			</HHDVBRaKhongTinhThue>
 			<TongDThuVaThueGTGTHHDVBRa>
-				<ct34>7289483210</ct34>
+				<ct34>7286703060</ct34>
 				<ct35>0</ct35>
 			</TongDThuVaThueGTGTHHDVBRa>
-			<ct36>-55902124</ct36>
+			<ct36>-56801124</ct36>
 			<ct37>39318851</ct37>
 			<ct38>0</ct38>
 			<ct39>0</ct39>
 			<ct40a>0</ct40a>
 			<ct40b>0</ct40b>
 			<ct40>0</ct40>
-			<ct41>89754981</ct41>
+			<ct41>90653981</ct41>
 			<ct42>0</ct42>
-			<ct43>89754981</ct43>
+			<ct43>90653981</ct43>
 		</CTieuTKhaiChinh>
 		<PLuc>
 			<PL01_KHBS>
 				<NDUNGKHAIBOSUNGDIEUCHINH>
 					<DieuChinhTang>
 						<KHBSDieuChinhTang id="ID_1">
-							<ct2></ct2>
-							<ct3></ct3>
+							<ct2/>
+							<ct3/>
 							<ct4>0</ct4>
 							<ct5>0</ct5>
 							<ct6>0</ct6>
@@ -108,8 +107,8 @@
 							<ct2>Tổng số thuế GTGT  được khấu trừ kỳ này</ct2>
 							<ct3>25</ct3>
 							<ct4>55864163</ct4>
-							<ct5>55902124</ct5>
-							<ct6>37961</ct6>
+							<ct5>56801124</ct5>
+							<ct6>936961</ct6>
 						</KHBSDieuChinhGiam></DieuChinhGiam>
 					<TongHopDCTangGiamPNop>
 						<ct40>
@@ -123,25 +122,54 @@
 							<ct2>Thuế GTGT còn được khấu trừ chuyển kỳ sau</ct2>
 							<ct3>43</ct3>
 							<ct4>89717020</ct4>
-							<ct5>89754981</ct5>
-							<ct6>37961</ct6>
+							<ct5>90653981</ct5>
+							<ct6>936961</ct6>
 						</ct43>
 					</TongHopDCTangGiamPNop>
 				</NDUNGKHAIBOSUNGDIEUCHINH>
 				<PhatChamNop>
-					<soNgayNopCham>35</soNgayNopCham>
+					<soNgayNopCham>57</soNgayNopCham>
 					<soTienPhatNopCham>0</soTienPhatNopCham>
 				</PhatChamNop>
 				<NOIDUNGGIAITHICH>
 					<soTienTraNSNN>0</soTienTraNSNN>
-					<quyetDinhHoanThueSo></quyetDinhHoanThueSo>
+					<quyetDinhHoanThueSo/>
 					<ngay xsi:nil="true"/>
-					<coQuanThue></coQuanThue>
+					<coQuanThue/>
 					<soNgayNhanDuocTienHoan>0</soNgayNhanDuocTienHoan>
 					<soTienChamNop>0</soTienChamNop>
-					<lyDoKhac></lyDoKhac>
+					<lyDoKhac/>
 				</NOIDUNGGIAITHICH>
 			</PL01_KHBS>
 		</PLuc>
 	</HSoKhaiThue>
-</HSoThueDTu>
+<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#ID_18"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>bMA4dNi+kEeqlVBditF4y7Qf5fI=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>JAvZz3JZh6ZZ+GY613cfTrz6m58iRsXPwSwsHMpLqxm8nS/GuI7CBmd/pU+inelXYmQ3fvmWf9Om
+MOvLvPzriTCDYPXNwMngKqv2EKeCK/xBzsCYoCA/twc0oLrlykruM9mYpHF+aIr3eDVA03KK6llU
+wT0YmBXHZzyfvr1iEO4=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>7krPegdQ7rXhutMD+33pPV1ckTxDw0jGzFTtQ+HodAU5mY/bb7QIkSDFpG+hvxVxn5sqlKwWoONT
+xKf2kjfFyMpv/hyuVghdvI8vvlS+pV0Lp/s5FmilF5QsS1ChaNPE2sCIsPjGJdDwv4PhZ+6qkaCT
+nY1nkQXmx4hs1lHgRhk=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>UID=MST:1100878093,CN=CÔNG TY TNHH HẢI SẢN AN LẠC,L=Đức Hòa,ST=Long An,C=VN</ds:X509SubjectName><ds:X509Certificate>MIIFrjCCA5agAwIBAgIQVAEn2FFbobxDVfKaapVGMTANBgkqhkiG9w0BAQUFADBpMQswCQYDVQQG
+EwJWTjETMBEGA1UEChMKVk5QVCBHcm91cDEeMBwGA1UECxMVVk5QVC1DQSBUcnVzdCBOZXR3b3Jr
+MSUwIwYDVQQDExxWTlBUIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MB4XDTE2MDIwNDAwMjgwMFoX
+DTE5MTIxNjA2NTgwOFowgYIxCzAJBgNVBAYTAlZOMRAwDgYDVQQIDAdMb25nIEFuMRQwEgYDVQQH
+DAvEkOG7qWMgSMOyYTErMCkGA1UEAwwiQ8OUTkcgVFkgVE5ISCBI4bqiSSBT4bqiTiBBTiBM4bqg
+QzEeMBwGCgmSJomT8ixkAQEMDk1TVDoxMTAwODc4MDkzMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCB
+iQKBgQDuSs96B1DuteG60wP7fek9XVyRPEPDSMbMVO1D4eh0BTmZj9tvtAiRIMWkb6G/FXGfmyqU
+rBag41PEp/aSN8XIym/+HK5WCF28jy++VL6lXQun+zkWaKUXlCxLUKFo08TawIiw+MYl0PC/g+Fn
+7qqRoJOdjWeRBebHiGzWUeBGGQIDAQABo4IBujCCAbYwcAYIKwYBBQUHAQEEZDBiMDIGCCsGAQUF
+BzAChiZodHRwOi8vcHViLnZucHQtY2Eudm4vY2VydHMvdm5wdGNhLmNlcjAsBggrBgEFBQcwAYYg
+aHR0cDovL29jc3Audm5wdC1jYS52bi9yZXNwb25kZXIwHQYDVR0OBBYEFAE4sAMkNbkR94ktFAhe
+nh8A76h1MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUBmnA1dUCihWNRn3pfOJoClWsaq8waAYD
+VR0gBGEwXzBdBg4rBgEEAYHtAwEBAwEBATBLMCIGCCsGAQUFBwICMBYeFABPAEkARAAtAFMAVAAt
+ADEALgAwMCUGCCsGAQUFBwIBFhlodHRwOi8vcHViLnZucHQtY2Eudm4vcnBhMDEGA1UdHwQqMCgw
+JqAkoCKGIGh0dHA6Ly9jcmwudm5wdC1jYS52bi92bnB0Y2EuY3JsMA4GA1UdDwEB/wQEAwIE8DAg
+BgNVHSUEGTAXBgorBgEEAYI3CgMMBgkqhkiG9y8BAQUwJQYDVR0RBB4wHIEadGhhbmh0dWFuLjE1
+MTA5MEBnbWFpbC5jb20wDQYJKoZIhvcNAQEFBQADggIBACs14/VvKryJ7Ahyh82al2sx1mwjE8Dy
+pH/x6e9cRdGek5+6TwzZ5EzhhuJ/W2zuGeBzn7JjnNEWiLsMyVEhY67kbRQezzWdIFWoUJ7vYeGa
+Dxt8D2Gd6kX5vyAanmX0AoUcaHbSZu+libYDbfN9/Elh5otkpaZywFYmYgL/0u95QW8BwAxt3hEr
+ir8acXeDEZRMFTJX9oLbFSnT8u0BZuZwGNiFys4GpSUNUiH+m6yIJIMhzTSoVvsZeC4tozxHfTYI
+aIbX9YGUsdEqzNtTM32NNrNUaTC2G4VKgHjvoz0T7crKhV7/PDj3wBJvQkMUPxTpFywFz7XCOmN4
+c4iliq9kLpNJiMwIK7fFRc0pGUrmeNXNmGRoKdVwvPZHoM60MCYgAxYYamKZ+9oVloFJdhBNb2yI
+H50+Y76J8RsQewEXd1VPp1BA8vwu/UmA2976YpW+6O1slZ+/8vHFlReoud7xGwq2zpIiBUEqua1b
+o/tXrML7tudwCwivHk17fjqtEpRUdgpTh4Xhu2AZ50CvUiiAy9VLK37gEkunWTHtMVnzd/uF8r2p
+56E7jZXxqOveXWYtq3fsFTiOikQXwx8jcC+wxBFEnadbkP0W9VG6hg79Mgwcunr0AcWFGmY1tA+l
+cZJ9v/T37JYy9UnXp3+Dd4jckJGi2nmwy6GCzb21AtDg</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature></CKyDTu></HSoThueDTu>
