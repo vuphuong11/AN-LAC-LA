@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<HSoThueDTu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue">
-	<HSoKhaiThue>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><HSoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<HSoKhaiThue id="_NODE_TO_SIGN">
 		<TTinChung>
 			<TTinDVu>
 				<maDVu>HTKK</maDVu>
 				<tenDVu>HTKK</tenDVu>
 				<pbanDVu>3.4.1</pbanDVu>
-				<ttinNhaCCapDVu></ttinNhaCCapDVu>
+				<ttinNhaCCapDVu/>
 			</TTinDVu>
 			<TTinTKhaiThue>
 				<TKhaiThue>
@@ -21,15 +20,15 @@
 						<kyKKhai>2016</kyKKhai>
 						<kyKKhaiTuNgay>01/01/2016</kyKKhaiTuNgay>
 						<kyKKhaiDenNgay>31/12/2016</kyKKhaiDenNgay>
-						<kyKKhaiTuThang></kyKKhaiTuThang>
-						<kyKKhaiDenThang></kyKKhaiDenThang>
+						<kyKKhaiTuThang/>
+						<kyKKhaiDenThang/>
 					</KyKKhaiThue>
 					<maCQTNoiNop>80100</maCQTNoiNop>
 					<tenCQTNoiNop>Cục Thuế Tỉnh Long An</tenCQTNoiNop>
 					<ngayLapTKhai>2017-03-14</ngayLapTKhai>
 					<GiaHan>
-						<maLyDoGiaHan></maLyDoGiaHan>
-						<lyDoGiaHan></lyDoGiaHan>
+						<maLyDoGiaHan/>
+						<lyDoGiaHan/>
 					</GiaHan>
 					<nguoiKy>Nguyễn Thiện Duy</nguoiKy>
 					<ngayKy>2017-03-13</ngayKy>
@@ -39,10 +38,10 @@
 					<mst>1100878093</mst>
 					<tenNNT>Công Ty TNHH Hải Sản An Lạc</tenNNT>
 					<dchiNNT>Lô A14, Đường 4A, KCN Hải Sơn, Đức Hoà, Long An</dchiNNT>
-					<phuongXa></phuongXa>
-					<maHuyenNNT></maHuyenNNT>
+					<phuongXa/>
+					<maHuyenNNT/>
 					<tenHuyenNNT>Đức Hoà</tenHuyenNNT>
-					<maTinhNNT></maTinhNNT>
+					<maTinhNNT/>
 					<tenTinhNNT>Long An</tenTinhNNT>
 					<dthoaiNNT>0723850606</dthoaiNNT>
 					<faxNNT>0723850608</faxNNT>
@@ -292,12 +291,12 @@
 					<ct432>0</ct432>
 					<ct440>34418441911</ct440>
 				</SoDauNam>
-				<nguoiLapBieu></nguoiLapBieu>
-				<keToanTruong></keToanTruong>
+				<nguoiLapBieu/>
+				<keToanTruong/>
 				<ngayLap>2017-03-13</ngayLap>
 				<giamDoc>Nguyễn Thiện Duy</giamDoc>
-				<soChungChiHanhNghe></soChungChiHanhNghe>
-				<donViCCapDVuKToan></donViCCapDVuKToan>
+				<soChungChiHanhNghe/>
+				<donViCCapDVuKToan/>
 			</CDKT_HoatDongLienTuc>
 		</CTieuTKhaiChinh>
 		<PLuc><PL_KQHDSXKD>
@@ -346,8 +345,8 @@
 					<ct71>0</ct71>
 				</NamTruoc>
 				<PhanKy>
-					<nguoiLapBieu></nguoiLapBieu>
-					<keToanTruong></keToanTruong>
+					<nguoiLapBieu/>
+					<keToanTruong/>
 					<ngayLap>2017-03-13</ngayLap>
 					<giamDoc>Nguyễn Thiện Duy</giamDoc>
 				</PhanKy>
@@ -411,11 +410,69 @@
 					<ct70>5961665180</ct70>
 				</NamTruoc>
 				<PhanKy>
-					<nguoiLapBieu></nguoiLapBieu>
-					<keToanTruong></keToanTruong>
+					<nguoiLapBieu/>
+					<keToanTruong/>
 					<ngayLap>2017-03-13</ngayLap>
 					<giamDoc>Nguyễn Thiện Duy</giamDoc>
 				</PhanKy>
 			</PL_LCTTTT></PLuc>
 	</HSoKhaiThue>
-</HSoThueDTu>
+<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#_NODE_TO_SIGN"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>m8g9DPvV+EZC8a2jkLhJkH30Jxs=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>O5fTrodIbnWVsFvsDsB1daFrsd0jkpuvF0RNiJ2ZNynZR3bLLdSM2XYZ5VY4O1SPSCaawlz57fiA
+qMf3LVGcAR2UTZMRDSHr75Fjf0gZhkyaY8vZHypbOsHb1/TXypxl9zLW7fhP4QJ7KbESntl1EmUu
+j75RlXWnclOeX+iL0qY=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>7krPegdQ7rXhutMD+33pPV1ckTxDw0jGzFTtQ+HodAU5mY/bb7QIkSDFpG+hvxVxn5sqlKwWoONT
+xKf2kjfFyMpv/hyuVghdvI8vvlS+pV0Lp/s5FmilF5QsS1ChaNPE2sCIsPjGJdDwv4PhZ+6qkaCT
+nY1nkQXmx4hs1lHgRhk=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>UID=MST:1100878093,CN=CÔNG TY TNHH HẢI SẢN AN LẠC,L=Đức Hòa,ST=Long An,C=VN</ds:X509SubjectName><ds:X509Certificate>MIIFrjCCA5agAwIBAgIQVAEn2FFbobxDVfKaapVGMTANBgkqhkiG9w0BAQUFADBpMQswCQYDVQQG
+EwJWTjETMBEGA1UEChMKVk5QVCBHcm91cDEeMBwGA1UECxMVVk5QVC1DQSBUcnVzdCBOZXR3b3Jr
+MSUwIwYDVQQDExxWTlBUIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MB4XDTE2MDIwNDAwMjgwMFoX
+DTE5MTIxNjA2NTgwOFowgYIxCzAJBgNVBAYTAlZOMRAwDgYDVQQIDAdMb25nIEFuMRQwEgYDVQQH
+DAvEkOG7qWMgSMOyYTErMCkGA1UEAwwiQ8OUTkcgVFkgVE5ISCBI4bqiSSBT4bqiTiBBTiBM4bqg
+QzEeMBwGCgmSJomT8ixkAQEMDk1TVDoxMTAwODc4MDkzMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCB
+iQKBgQDuSs96B1DuteG60wP7fek9XVyRPEPDSMbMVO1D4eh0BTmZj9tvtAiRIMWkb6G/FXGfmyqU
+rBag41PEp/aSN8XIym/+HK5WCF28jy++VL6lXQun+zkWaKUXlCxLUKFo08TawIiw+MYl0PC/g+Fn
+7qqRoJOdjWeRBebHiGzWUeBGGQIDAQABo4IBujCCAbYwcAYIKwYBBQUHAQEEZDBiMDIGCCsGAQUF
+BzAChiZodHRwOi8vcHViLnZucHQtY2Eudm4vY2VydHMvdm5wdGNhLmNlcjAsBggrBgEFBQcwAYYg
+aHR0cDovL29jc3Audm5wdC1jYS52bi9yZXNwb25kZXIwHQYDVR0OBBYEFAE4sAMkNbkR94ktFAhe
+nh8A76h1MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUBmnA1dUCihWNRn3pfOJoClWsaq8waAYD
+VR0gBGEwXzBdBg4rBgEEAYHtAwEBAwEBATBLMCIGCCsGAQUFBwICMBYeFABPAEkARAAtAFMAVAAt
+ADEALgAwMCUGCCsGAQUFBwIBFhlodHRwOi8vcHViLnZucHQtY2Eudm4vcnBhMDEGA1UdHwQqMCgw
+JqAkoCKGIGh0dHA6Ly9jcmwudm5wdC1jYS52bi92bnB0Y2EuY3JsMA4GA1UdDwEB/wQEAwIE8DAg
+BgNVHSUEGTAXBgorBgEEAYI3CgMMBgkqhkiG9y8BAQUwJQYDVR0RBB4wHIEadGhhbmh0dWFuLjE1
+MTA5MEBnbWFpbC5jb20wDQYJKoZIhvcNAQEFBQADggIBACs14/VvKryJ7Ahyh82al2sx1mwjE8Dy
+pH/x6e9cRdGek5+6TwzZ5EzhhuJ/W2zuGeBzn7JjnNEWiLsMyVEhY67kbRQezzWdIFWoUJ7vYeGa
+Dxt8D2Gd6kX5vyAanmX0AoUcaHbSZu+libYDbfN9/Elh5otkpaZywFYmYgL/0u95QW8BwAxt3hEr
+ir8acXeDEZRMFTJX9oLbFSnT8u0BZuZwGNiFys4GpSUNUiH+m6yIJIMhzTSoVvsZeC4tozxHfTYI
+aIbX9YGUsdEqzNtTM32NNrNUaTC2G4VKgHjvoz0T7crKhV7/PDj3wBJvQkMUPxTpFywFz7XCOmN4
+c4iliq9kLpNJiMwIK7fFRc0pGUrmeNXNmGRoKdVwvPZHoM60MCYgAxYYamKZ+9oVloFJdhBNb2yI
+H50+Y76J8RsQewEXd1VPp1BA8vwu/UmA2976YpW+6O1slZ+/8vHFlReoud7xGwq2zpIiBUEqua1b
+o/tXrML7tudwCwivHk17fjqtEpRUdgpTh4Xhu2AZ50CvUiiAy9VLK37gEkunWTHtMVnzd/uF8r2p
+56E7jZXxqOveXWYtq3fsFTiOikQXwx8jcC+wxBFEnadbkP0W9VG6hg79Mgwcunr0AcWFGmY1tA+l
+cZJ9v/T37JYy9UnXp3+Dd4jckJGi2nmwy6GCzb21AtDg</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#_NODE_TO_SIGN"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>m8g9DPvV+EZC8a2jkLhJkH30Jxs=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>O5fTrodIbnWVsFvsDsB1daFrsd0jkpuvF0RNiJ2ZNynZR3bLLdSM2XYZ5VY4O1SPSCaawlz57fiA
+qMf3LVGcAR2UTZMRDSHr75Fjf0gZhkyaY8vZHypbOsHb1/TXypxl9zLW7fhP4QJ7KbESntl1EmUu
+j75RlXWnclOeX+iL0qY=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>7krPegdQ7rXhutMD+33pPV1ckTxDw0jGzFTtQ+HodAU5mY/bb7QIkSDFpG+hvxVxn5sqlKwWoONT
+xKf2kjfFyMpv/hyuVghdvI8vvlS+pV0Lp/s5FmilF5QsS1ChaNPE2sCIsPjGJdDwv4PhZ+6qkaCT
+nY1nkQXmx4hs1lHgRhk=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>UID=MST:1100878093,CN=CÔNG TY TNHH HẢI SẢN AN LẠC,L=Đức Hòa,ST=Long An,C=VN</ds:X509SubjectName><ds:X509Certificate>MIIFrjCCA5agAwIBAgIQVAEn2FFbobxDVfKaapVGMTANBgkqhkiG9w0BAQUFADBpMQswCQYDVQQG
+EwJWTjETMBEGA1UEChMKVk5QVCBHcm91cDEeMBwGA1UECxMVVk5QVC1DQSBUcnVzdCBOZXR3b3Jr
+MSUwIwYDVQQDExxWTlBUIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MB4XDTE2MDIwNDAwMjgwMFoX
+DTE5MTIxNjA2NTgwOFowgYIxCzAJBgNVBAYTAlZOMRAwDgYDVQQIDAdMb25nIEFuMRQwEgYDVQQH
+DAvEkOG7qWMgSMOyYTErMCkGA1UEAwwiQ8OUTkcgVFkgVE5ISCBI4bqiSSBT4bqiTiBBTiBM4bqg
+QzEeMBwGCgmSJomT8ixkAQEMDk1TVDoxMTAwODc4MDkzMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCB
+iQKBgQDuSs96B1DuteG60wP7fek9XVyRPEPDSMbMVO1D4eh0BTmZj9tvtAiRIMWkb6G/FXGfmyqU
+rBag41PEp/aSN8XIym/+HK5WCF28jy++VL6lXQun+zkWaKUXlCxLUKFo08TawIiw+MYl0PC/g+Fn
+7qqRoJOdjWeRBebHiGzWUeBGGQIDAQABo4IBujCCAbYwcAYIKwYBBQUHAQEEZDBiMDIGCCsGAQUF
+BzAChiZodHRwOi8vcHViLnZucHQtY2Eudm4vY2VydHMvdm5wdGNhLmNlcjAsBggrBgEFBQcwAYYg
+aHR0cDovL29jc3Audm5wdC1jYS52bi9yZXNwb25kZXIwHQYDVR0OBBYEFAE4sAMkNbkR94ktFAhe
+nh8A76h1MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUBmnA1dUCihWNRn3pfOJoClWsaq8waAYD
+VR0gBGEwXzBdBg4rBgEEAYHtAwEBAwEBATBLMCIGCCsGAQUFBwICMBYeFABPAEkARAAtAFMAVAAt
+ADEALgAwMCUGCCsGAQUFBwIBFhlodHRwOi8vcHViLnZucHQtY2Eudm4vcnBhMDEGA1UdHwQqMCgw
+JqAkoCKGIGh0dHA6Ly9jcmwudm5wdC1jYS52bi92bnB0Y2EuY3JsMA4GA1UdDwEB/wQEAwIE8DAg
+BgNVHSUEGTAXBgorBgEEAYI3CgMMBgkqhkiG9y8BAQUwJQYDVR0RBB4wHIEadGhhbmh0dWFuLjE1
+MTA5MEBnbWFpbC5jb20wDQYJKoZIhvcNAQEFBQADggIBACs14/VvKryJ7Ahyh82al2sx1mwjE8Dy
+pH/x6e9cRdGek5+6TwzZ5EzhhuJ/W2zuGeBzn7JjnNEWiLsMyVEhY67kbRQezzWdIFWoUJ7vYeGa
+Dxt8D2Gd6kX5vyAanmX0AoUcaHbSZu+libYDbfN9/Elh5otkpaZywFYmYgL/0u95QW8BwAxt3hEr
+ir8acXeDEZRMFTJX9oLbFSnT8u0BZuZwGNiFys4GpSUNUiH+m6yIJIMhzTSoVvsZeC4tozxHfTYI
+aIbX9YGUsdEqzNtTM32NNrNUaTC2G4VKgHjvoz0T7crKhV7/PDj3wBJvQkMUPxTpFywFz7XCOmN4
+c4iliq9kLpNJiMwIK7fFRc0pGUrmeNXNmGRoKdVwvPZHoM60MCYgAxYYamKZ+9oVloFJdhBNb2yI
+H50+Y76J8RsQewEXd1VPp1BA8vwu/UmA2976YpW+6O1slZ+/8vHFlReoud7xGwq2zpIiBUEqua1b
+o/tXrML7tudwCwivHk17fjqtEpRUdgpTh4Xhu2AZ50CvUiiAy9VLK37gEkunWTHtMVnzd/uF8r2p
+56E7jZXxqOveXWYtq3fsFTiOikQXwx8jcC+wxBFEnadbkP0W9VG6hg79Mgwcunr0AcWFGmY1tA+l
+cZJ9v/T37JYy9UnXp3+Dd4jckJGi2nmwy6GCzb21AtDg</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature></CKyDTu></HSoThueDTu>
