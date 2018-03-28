@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<C70a-HD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ThongTinKhac>
+    <MaDonVi>TZ0250Z</MaDonVi>
+    <SoDienThoai>0723850606</SoDienThoai>
+    <SoTaiKhoan>107000268615</SoTaiKhoan>
+    <MoTai>PVCOMBANK</MoTai>
+    <ChiNhanh>GIA ĐỊNH</ChiNhanh>
+    <DotXetDuyet>01032018</DotXetDuyet>
+  </ThongTinKhac>
+  <NoiDung>
+    <PhatSinh>
+      <CheDoOmDau />
+      <CheDoThaiSan />
+      <CheDoDuongSuc>
+        <LaoDong>
+          <ID>0000000001</ID>
+          <STT>1</STT>
+          <HoTen>Trần Thị bích Phượng</HoTen>
+          <MaNhomHuong>D2</MaNhomHuong>
+          <SoBHXH>8013031888</SoBHXH>
+          <SoCMND>365785683</SoCMND>
+          <DotBoSung />
+          <DuyetSai />
+          <HinhThucNhan />
+          <SoTaiKhoan />
+          <TenChuTaiKhoan />
+          <MaNganHang />
+          <MaNhanVien />
+          <GhiChu />
+          <NgayGiamDinh />
+          <TyLeSuyGiam />
+          <SoNgayDonViDeNghi>5</SoNgayDonViDeNghi>
+          <TuNgayDonViDeNghi>01/01/2018</TuNgayDonViDeNghi>
+          <ThoiDiemTinh>05/01/2018</ThoiDiemTinh>
+        </LaoDong>
+        <LaoDong>
+          <ID>0000000002</ID>
+          <STT>1</STT>
+          <HoTen>Lâm Thị Mộng Thường</HoTen>
+          <MaNhomHuong>D2</MaNhomHuong>
+          <SoBHXH>8015006418</SoBHXH>
+          <SoCMND>365683396</SoCMND>
+          <DotBoSung />
+          <DuyetSai />
+          <HinhThucNhan />
+          <SoTaiKhoan />
+          <TenChuTaiKhoan />
+          <MaNganHang />
+          <MaNhanVien />
+          <GhiChu />
+          <NgayGiamDinh />
+          <TyLeSuyGiam />
+          <SoNgayDonViDeNghi>5</SoNgayDonViDeNghi>
+          <TuNgayDonViDeNghi>01/12/2017</TuNgayDonViDeNghi>
+          <ThoiDiemTinh>05/12/2017</ThoiDiemTinh>
+        </LaoDong>
+      </CheDoDuongSuc>
+    </PhatSinh>
+    <DieuChinh>
+      <CheDoOmDau />
+      <CheDoThaiSan />
+      <CheDoDuongSuc />
+    </DieuChinh>
+  </NoiDung>
+  <Cky />
+</C70a-HD>
